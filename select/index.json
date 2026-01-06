@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "カタブラ",
+  "base_artist": "ウルトラ寿司ふぁいやー",
+  "createdAt": "2026-01-06T08:41:05.548350Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "カタブラ",
+      "artist": "ウルトラ寿司ふぁいやー",
+      "has_synced": false,
+      "path": "select/pl_01_カタブラ_ウルトラ寿司ふぁいやー.txt"
+    }
+  ]
+}
